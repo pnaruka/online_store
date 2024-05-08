@@ -1,3 +1,6 @@
+const fs = require("fs");
+const path = require("path");
+
 const fetchProducts = async (req, res) => {
     const parentDir = path.dirname(__dirname);
     const filePath = path.join(parentDir, 'data', 'products.json');

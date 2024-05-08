@@ -2,140 +2,140 @@
     {
       "id": 1,
       "name": "Laptop",
-      "image": "public/productsImg/laptop.jpg",
+      "image": "productsImg/laptop.jpg",
       "description": "Powerful laptop for work and entertainment",
       "price": 999.99
     },
     {
       "id": 2,
       "name": "Smartphone",
-      "image": "public/productsImg/smartphone.jpg",
+      "image": "productsImg/smartphone.jpg",
       "description": "Latest smartphone with advanced features",
       "price": 699.99
     },
     {
       "id": 3,
       "name": "Headphones",
-      "image": "public/productsImg/headphones.jpg",
+      "image": "productsImg/headphones.jpg",
       "description": "High-quality headphones for immersive audio experience",
       "price": 149.99
     },
     {
       "id": 4,
       "name": "Smartwatch",
-      "image": "public/productsImg/smartwatch.jpg",
+      "image": "productsImg/smartwatch.jpg",
       "description": "Stay connected with this stylish smartwatch",
       "price": 199.99
     },
     {
       "id": 5,
       "name": "Camera",
-      "image": "public/productsImg/camera.jpg",
+      "image": "productsImg/camera.jpg",
       "description": "Capture memories with this professional camera",
       "price": 799.99
     },
     {
       "id": 6,
       "name": "Gaming Console",
-      "image": "public/productsImg/gaming_console.jpg",
+      "image": "productsImg/gaming_console.jpg",
       "description": "Experience gaming like never before",
       "price": 499.99
     },
     {
       "id": 7,
       "name": "Tablet",
-      "image": "public/productsImg/tablet.jpg",
+      "image": "productsImg/tablet.jpg",
       "description": "Portable tablet for work and entertainment on the go",
       "price": 299.99
     },
     {
       "id": 8,
       "name": "Wireless Earbuds",
-      "image": "public/productsImg/earbuds.jpg",
+      "image": "productsImg/earbuds.jpg",
       "description": "Enjoy music without the hassle of wires",
       "price": 99.99
     },
     {
       "id": 9,
       "name": "Fitness Tracker",
-      "image": "public/productsImg/fitness_tracker.jpg",
+      "image": "productsImg/fitness_tracker.jpg",
       "description": "Track your fitness goals with this handy device",
       "price": 79.99
     },
     {
       "id": 10,
       "name": "Printer",
-      "image": "public/productsImg/printer.jpg",
+      "image": "productsImg/printer.jpg",
       "description": "Print documents and photos with ease",
       "price": 149.99
     },
     {
       "id": 11,
       "name": "External Hard Drive",
-      "image": "public/productsImg/external_hard_drive.jpg",
+      "image": "productsImg/external_hard_drive.jpg",
       "description": "Store your files securely with this external hard drive",
       "price": 129.99
     },
     {
       "id": 12,
       "name": "Wireless Mouse",
-      "image": "public/productsImg/wireless_mouse.jpg",
+      "image": "productsImg/wireless_mouse.jpg",
       "description": "Navigate your computer wirelessly with this mouse",
       "price": 29.99
     },
     {
       "id": 13,
       "name": "Bluetooth Speaker",
-      "image": "public/productsImg/bluetooth_speaker.jpg",
+      "image": "productsImg/bluetooth_speaker.jpg",
       "description": "Enjoy music with friends using this portable speaker",
       "price": 79.99
     },
     {
       "id": 14,
       "name": "Coffee Maker",
-      "image": "public/productsImg/coffee_maker.jpg",
+      "image": "productsImg/coffee_maker.jpg",
       "description": "Brew your favorite coffee at home",
       "price": 49.99
     },
     {
       "id": 15,
       "name": "Electric Toothbrush",
-      "image": "public/productsImg/toothbrush.jpg",
+      "image": "productsImg/toothbrush.jpg",
       "description": "Keep your teeth clean with this electric toothbrush",
       "price": 39.99
     },
     {
       "id": 16,
       "name": "Wireless Keyboard",
-      "image": "public/productsImg/wireless_keyboard.jpg",
+      "image": "productsImg/wireless_keyboard.jpg",
       "description": "Type comfortably with this wireless keyboard",
       "price": 49.99
     },
     {
       "id": 17,
       "name": "Rice Cooker",
-      "image": "public/productsImg/rice_cooker.jpg",
+      "image": "productsImg/rice_cooker.jpg",
       "description": "Cook perfect rice every time with this rice cooker",
       "price": 59.99
     },
     {
       "id": 18,
       "name": "Power Bank",
-      "image": "public/productsImg/power_bank.jpg",
+      "image": "productsImg/power_bank.jpg",
       "description": "Charge your devices on the go with this power bank",
       "price": 29.99
     },
     {
       "id": 19,
       "name": "Backpack",
-      "image": "public/productsImg/backpack.jpg",
+      "image": "productsImg/backpack.jpg",
       "description": "Carry your belongings in style with this backpack",
       "price": 39.99
     },
     {
       "id": 20,
       "name": "Sunglasses",
-      "image": "public/productsImg/sunglasses.jpg",
+      "image": "productsImg/sunglasses.jpg",
       "description": "Protect your eyes from the sun with these sunglasses",
       "price": 19.99
     }
