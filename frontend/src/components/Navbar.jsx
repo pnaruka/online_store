@@ -1,12 +1,13 @@
 // Navbar.js
 import React from 'react';
-import { Badge, Flex, Heading, IconButton, Text } from '@chakra-ui/react';
+import { Badge, Flex, Heading, IconButton } from '@chakra-ui/react';
 import { FiShoppingCart } from 'react-icons/fi';
 import { useSelector } from 'react-redux';
-import { getCart } from '../contexts_store/reducer/cart';
+import { getCartCount } from '../contexts_store/reducer/cart';
+import { Link } from 'react-router-dom';
 
 const Navbar = () => {
-    const cart = useSelector(getCart);
+    const cartCount = useSelector(getCartCount);
 
   return (
     <Flex
@@ -21,6 +22,7 @@ const Navbar = () => {
         Store
       </Heading>
       <Flex align="center">
+      <Link to="/cart">
         <IconButton
           aria-label="Cart"
           icon={<FiShoppingCart />}
@@ -28,10 +30,11 @@ const Navbar = () => {
           size="md"
           colorScheme="teal"
         />
+        </Link>
         
-        {cart.length > 0 && (
+        {cartCount > 0 && (
           <Badge ml="1" colorScheme="red">
-            {cart.length}
+            {cartCount}
           </Badge>
         )}
       </Flex>
