@@ -1,8 +1,8 @@
 # Blog App
 
 ## Description:
-This is a simple e-commerce on Node and React. \
-Express is used to write APIs. \
+This is a simple e-commerce app built on Node and React. \
+Express is used to write APIs.
 
 ## Table of Contents
 
