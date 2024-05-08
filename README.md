@@ -16,7 +16,7 @@ Express is used to write APIs.
 ## Installation <a name="installation"></a>:
 To install the project, follow these steps:
 
-Clone the repository: `https://github.com/pnaruka/online_store`\
+Clone the repository: `git clone https://github.com/pnaruka/online_store`\
 Navigate to the project directory: `cd online_store`
 
 Install dependencies: `npm install`
